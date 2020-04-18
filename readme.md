@@ -17,7 +17,7 @@ The course covered:
 * recommended workflow in teamwork 
 
 
-Changes in html was only done to use different GIT functions.
+Changes in html were only done to use different GIT functions.
 
 
 
